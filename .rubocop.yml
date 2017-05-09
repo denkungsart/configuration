@@ -33,6 +33,12 @@ Style/AlignParameters:
   EnforcedStyle: with_fixed_indentation
 Style/MultilineMethodCallIndentation:
   EnforcedStyle: indented
+Style/PercentLiteralDelimiters:
+  PreferredDelimiters:
+    '%i': '()'
+    '%I': '()'
+    '%w': '()'
+    '%W': '()'
 Style/SymbolArray:
   Enabled: false
 Rails/OutputSafety:
