@@ -4,6 +4,9 @@ Documentation:
   Enabled: false
 Lint/HandleExceptions:
   Enabled: false
+Lint/UselessAccessModifier:
+  ContextCreatingMethods:
+    - concerning
 Metrics/AbcSize:
   Enabled: false
 Metrics/BlockLength:
