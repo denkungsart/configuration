@@ -28,13 +28,13 @@ Rails/OutputSafety:
   Enabled: false
 Rails/SkipsModelValidations:
   Enabled: false
-Style/AlignParameters:
+Layout/AlignParameters:
   EnforcedStyle: with_fixed_indentation
 Style/AsciiComments:
   Enabled: false
 Style/ConditionalAssignment:
   Enabled: false
-Style/EmptyLinesAroundAccessModifier:
+Layout/EmptyLinesAroundAccessModifier:
   Enabled: false
 Style/FrozenStringLiteralComment:
   Enabled: false
@@ -42,9 +42,9 @@ Style/GuardClause:
   Enabled: false
 Style/IfUnlessModifier:
   Enabled: false
-Style/IndentationConsistency:
+Layout/IndentationConsistency:
   EnforcedStyle: rails
-Style/MultilineMethodCallIndentation:
+Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
 Style/NumericPredicate:
   Enabled: false
