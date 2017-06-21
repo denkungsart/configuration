@@ -2,6 +2,14 @@ ClassAndModuleChildren:
   Enabled: false
 Documentation:
   Enabled: false
+Layout/AlignParameters:
+  EnforcedStyle: with_fixed_indentation
+Layout/EmptyLinesAroundAccessModifier:
+  Enabled: false
+Layout/IndentationConsistency:
+  EnforcedStyle: rails
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
 Lint/HandleExceptions:
   Enabled: false
 Lint/UselessAccessModifier:
@@ -28,13 +36,9 @@ Rails/OutputSafety:
   Enabled: false
 Rails/SkipsModelValidations:
   Enabled: false
-Layout/AlignParameters:
-  EnforcedStyle: with_fixed_indentation
 Style/AsciiComments:
   Enabled: false
 Style/ConditionalAssignment:
-  Enabled: false
-Layout/EmptyLinesAroundAccessModifier:
   Enabled: false
 Style/FrozenStringLiteralComment:
   Enabled: false
@@ -42,10 +46,6 @@ Style/GuardClause:
   Enabled: false
 Style/IfUnlessModifier:
   Enabled: false
-Layout/IndentationConsistency:
-  EnforcedStyle: rails
-Layout/MultilineMethodCallIndentation:
-  EnforcedStyle: indented
 Style/NumericPredicate:
   Enabled: false
 Style/PercentLiteralDelimiters:
