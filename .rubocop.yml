@@ -46,6 +46,8 @@ Style/GuardClause:
   Enabled: false
 Style/IfUnlessModifier:
   Enabled: false
+Style/Next:
+  MinBodyLength: 20
 Style/NumericPredicate:
   Enabled: false
 Style/PercentLiteralDelimiters:
