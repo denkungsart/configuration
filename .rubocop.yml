@@ -28,6 +28,8 @@ Rails/Delegate:
   Enabled: false
 Rails/DynamicFindBy:
   Enabled: false
+Rails/FilePath:
+  Enabled: false
 Rails/HasAndBelongsToMany:
   Enabled: false
 Rails/Output:
