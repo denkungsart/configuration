@@ -48,6 +48,9 @@ Style/GuardClause:
   Enabled: false
 Style/IfUnlessModifier:
   Enabled: false
+Style/LambdaCall:
+  Exclude:
+    - *.jbuilder
 Style/Next:
   MinBodyLength: 20
 Style/NumericPredicate:
