@@ -50,7 +50,7 @@ Style/IfUnlessModifier:
   Enabled: false
 Style/LambdaCall:
   Exclude:
-    - *.jbuilder
+    - '**/*.jbuilder'
 Style/Next:
   MinBodyLength: 20
 Style/NumericPredicate:
