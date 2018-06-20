@@ -24,6 +24,8 @@ Metrics/LineLength:
   Enabled: false
 Metrics/MethodLength:
   Enabled: false
+Performance/Casecmp:
+  Enabled: false
 Rails/Delegate:
   Enabled: false
 Rails/DynamicFindBy:
