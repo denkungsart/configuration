@@ -63,6 +63,8 @@ Style/PercentLiteralDelimiters:
     '%I': '()'
     '%w': '()'
     '%W': '()'
+Style/RescueStandardError:
+  EnforcedStyle: explicit
 Style/StringLiterals:
   EnforcedStyle: double_quotes
 Style/SymbolArray:
