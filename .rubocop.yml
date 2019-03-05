@@ -1,3 +1,6 @@
+AllCops:
+  Exclude:
+    - "**/*.erb"
 ClassAndModuleChildren:
   Enabled: false
 Documentation:
