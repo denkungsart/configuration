@@ -10,7 +10,7 @@ Layout/AlignParameters:
 Layout/EmptyLinesAroundAccessModifier:
   Enabled: false
 Layout/IndentationConsistency:
-  EnforcedStyle: rails
+  EnforcedStyle: indented_internal_methods
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
 Lint/HandleExceptions:
