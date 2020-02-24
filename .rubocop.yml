@@ -5,7 +5,7 @@ ClassAndModuleChildren:
   Enabled: false
 Documentation:
   Enabled: false
-Layout/AlignParameters:
+Layout/ParameterAlignment:
   EnforcedStyle: with_fixed_indentation
 Layout/EmptyLinesAroundAccessModifier:
   Enabled: false
@@ -13,7 +13,7 @@ Layout/IndentationConsistency:
   EnforcedStyle: indented_internal_methods
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
-Lint/HandleExceptions:
+Lint/SuppressedException:
   Enabled: false
 Lint/UselessAccessModifier:
   ContextCreatingMethods:
@@ -23,7 +23,7 @@ Metrics/AbcSize:
 Metrics/BlockLength:
   Exclude:
     - 'spec/**/*'
-Metrics/LineLength:
+Layout/LineLength:
   Enabled: false
 Metrics/MethodLength:
   Enabled: false
