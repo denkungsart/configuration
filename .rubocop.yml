@@ -5,14 +5,14 @@ require:
 AllCops:
   Exclude:
     - "**/*.erb"
-Layout/ParameterAlignment:
-  EnforcedStyle: with_fixed_indentation
 Layout/EmptyLinesAroundAccessModifier:
   Enabled: false
 Layout/IndentationConsistency:
   EnforcedStyle: indented_internal_methods
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
+Layout/ParameterAlignment:
+  EnforcedStyle: with_fixed_indentation
 Lint/SuppressedException:
   Enabled: false
 Lint/UselessAccessModifier:
