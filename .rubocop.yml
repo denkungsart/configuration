@@ -29,6 +29,8 @@ Metrics/MethodLength:
   Enabled: false
 Performance/Casecmp:
   Enabled: false
+Rails/ContentTag:
+  Enabled: false
 Rails/Delegate:
   Enabled: false
 Rails/DynamicFindBy:
