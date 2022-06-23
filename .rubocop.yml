@@ -68,6 +68,8 @@ Style/GuardClause:
   Enabled: false
 Style/HashEachMethods:
   Enabled: true
+Style/HashSyntax:
+  EnforcedShorthandSyntax: either
 Style/HashTransformKeys:
   Enabled: true
 Style/HashTransformValues:
