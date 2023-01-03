@@ -36,6 +36,15 @@ Layout/LineLength:
   Enabled: false
 Performance/Casecmp:
   Enabled: false
+Rails/ActionOrder:
+  ExpectedOrder:
+    - index
+    - show
+    - new
+    - create
+    - edit
+    - update
+    - destroy
 Rails/ContentTag:
   Enabled: false
 Rails/Delegate:
