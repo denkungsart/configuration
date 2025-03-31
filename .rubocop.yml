@@ -87,6 +87,9 @@ Style/HashTransformValues:
   Enabled: true
 Style/IfUnlessModifier:
   Enabled: false
+Style/ItBlockParameter:
+  EnforcedStyle: disallow
+
 Style/LambdaCall:
   Exclude:
     - '**/*.jbuilder'
